@@ -1,0 +1,15 @@
+# Thư mục tạm của công cụ dựng trang, không thuộc website
+.taste-skill/
+shots/
+
+# Ghi chú nội bộ lúc dựng trang
+docs/
+
+# Ảnh tham khảo của shop khác — không phải tài sản của mình,
+# không đưa lên kho công khai
+ac892309-*.png
+
+# Hệ điều hành
+Thumbs.db
+desktop.ini
+.DS_Store
